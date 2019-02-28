@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+
+<!--
+-
+- Sequel Pro XML dump
+- Version 4541
+-
+- http://www.sequelpro.com/
+- https://github.com/sequelpro/sequelpro
+-
+- Host: 35.188.191.9 (MySQL 5.7.14-google-log)
+- Database: us-data
+- Generation Time Time: 2019-02-28 20:17:26 +0000
+-
+-->
+
+<us-data>
+
+	<us_states>
+	<row>
+		<id>1</id>
+		<state_name>Alabama</state_name>
+		<state_code>AL</state_code>
+	</row>
+
+	<row>
+		<id>2</id>
+		<state_name>Alaska</state_name>
+		<state_code>AK</state_code>
+	</row>
+
+	<row>
+		<id>3</id>
+		<state_name>Arizona</state_name>
+		<state_code>AZ</state_code>
+	</row>
+
+	<row>
+		<id>4</id>
+		<state_name>Arkansas</state_name>
+		<state_code>AR</state_code>
+	</row>
+
+	<row>
+		<id>5</id>
+		<state_name>California</state_name>
+		<state_code>CA</state_code>
+	</row>
+
+	<row>
+		<id>6</id>
+		<state_name>Colorado</state_name>
+		<state_code>CO</state_code>
+	</row>
+
+	<row>
+		<id>7</id>
+		<state_name>Connecticut</state_name>
+		<state_code>CT</state_code>
+	</row>
+
+	<row>
+		<id>8</id>
+		<state_name>Delaware</state_name>
+		<state_code>DE</state_code>
+	</row>
+
+	<row>
+		<id>9</id>
+		<state_name>District of Columbia</state_name>
+		<state_code>DC</state_code>
+	</row>
+
+	<row>
+		<id>10</id>
+		<state_name>Florida</state_name>
+		<state_code>FL</state_code>
+	</row>
+
+	<row>
+		<id>11</id>
+		<state_name>Georgia</state_name>
+		<state_code>GA</state_code>
+	</row>
+
+	<row>
+		<id>12</id>
+		<state_name>Hawaii</state_name>
+		<state_code>HI</state_code>
+	</row>
+
+	<row>
+		<id>13</id>
+		<state_name>Idaho</state_name>
+		<state_code>ID</state_code>
+	</row>
+
+	<row>
+		<id>14</id>
+		<state_name>Illinois</state_name>
+		<state_code>IL</state_code>
+	</row>
+
+	<row>
+		<id>15</id>
+		<state_name>Indiana</state_name>
+		<state_code>IN</state_code>
+	</row>
+
+	<row>
+		<id>16</id>
+		<state_name>Iowa</state_name>
+		<state_code>IA</state_code>
+	</row>
+
+	<row>
+		<id>17</id>
+		<state_name>Kansas</state_name>
+		<state_code>KS</state_code>
+	</row>
+
+	<row>
+		<id>18</id>
+		<state_name>Kentucky</state_name>
+		<state_code>KY</state_code>
+	</row>
+
+	<row>
+		<id>19</id>
+		<state_name>Louisiana</state_name>
+		<state_code>LA</state_code>
+	</row>
+
+	<row>
+		<id>20</id>
+		<state_name>Maine</state_name>
+		<state_code>ME</state_code>
+	</row>
+
+	<row>
+		<id>21</id>
+		<state_name>Maryland</state_name>
+		<state_code>MD</state_code>
+	</row>
+
+	<row>
+		<id>22</id>
+		<state_name>Massachusetts</state_name>
+		<state_code>MA</state_code>
+	</row>
+
+	<row>
+		<id>23</id>
+		<state_name>Michigan</state_name>
+		<state_code>MI</state_code>
+	</row>
+
+	<row>
+		<id>24</id>
+		<state_name>Minnesota</state_name>
+		<state_code>MN</state_code>
+	</row>
+
+	<row>
+		<id>25</id>
+		<state_name>Mississippi</state_name>
+		<state_code>MS</state_code>
+	</row>
+
+	<row>
+		<id>26</id>
+		<state_name>Missouri</state_name>
+		<state_code>MO</state_code>
+	</row>
+
+	<row>
+		<id>27</id>
+		<state_name>Montana</state_name>
+		<state_code>MT</state_code>
+	</row>
+
+	<row>
+		<id>28</id>
+		<state_name>Nebraska</state_name>
+		<state_code>NE</state_code>
+	</row>
+
+	<row>
+		<id>29</id>
+		<state_name>Nevada</state_name>
+		<state_code>NV</state_code>
+	</row>
+
+	<row>
+		<id>30</id>
+		<state_name>New Hampshire</state_name>
+		<state_code>NH</state_code>
+	</row>
+
+	<row>
+		<id>31</id>
+		<state_name>New Jersey</state_name>
+		<state_code>NJ</state_code>
+	</row>
+
+	<row>
+		<id>32</id>
+		<state_name>New Mexico</state_name>
+		<state_code>NM</state_code>
+	</row>
+
+	<row>
+		<id>33</id>
+		<state_name>New York</state_name>
+		<state_code>NY</state_code>
+	</row>
+
+	<row>
+		<id>34</id>
+		<state_name>North Carolina</state_name>
+		<state_code>NC</state_code>
+	</row>
+
+	<row>
+		<id>35</id>
+		<state_name>North Dakota</state_name>
+		<state_code>ND</state_code>
+	</row>
+
+	<row>
+		<id>36</id>
+		<state_name>Ohio</state_name>
+		<state_code>OH</state_code>
+	</row>
+
+	<row>
+		<id>37</id>
+		<state_name>Oklahoma</state_name>
+		<state_code>OK</state_code>
+	</row>
+
+	<row>
+		<id>38</id>
+		<state_name>Oregon</state_name>
+		<state_code>OR</state_code>
+	</row>
+
+	<row>
+		<id>39</id>
+		<state_name>Pennsylvania</state_name>
+		<state_code>PA</state_code>
+	</row>
+
+	<row>
+		<id>40</id>
+		<state_name>Puerto Rico</state_name>
+		<state_code>PR</state_code>
+	</row>
+
+	<row>
+		<id>41</id>
+		<state_name>Rhode Island</state_name>
+		<state_code>RI</state_code>
+	</row>
+
+	<row>
+		<id>42</id>
+		<state_name>South Carolina</state_name>
+		<state_code>SC</state_code>
+	</row>
+
+	<row>
+		<id>43</id>
+		<state_name>South Dakota</state_name>
+		<state_code>SD</state_code>
+	</row>
+
+	<row>
+		<id>44</id>
+		<state_name>Tennessee</state_name>
+		<state_code>TN</state_code>
+	</row>
+
+	<row>
+		<id>45</id>
+		<state_name>Texas</state_name>
+		<state_code>TX</state_code>
+	</row>
+
+	<row>
+		<id>46</id>
+		<state_name>Utah</state_name>
+		<state_code>UT</state_code>
+	</row>
+
+	<row>
+		<id>47</id>
+		<state_name>Vermont</state_name>
+		<state_code>VT</state_code>
+	</row>
+
+	<row>
+		<id>48</id>
+		<state_name>Virginia</state_name>
+		<state_code>VA</state_code>
+	</row>
+
+	<row>
+		<id>49</id>
+		<state_name>Washington</state_name>
+		<state_code>WA</state_code>
+	</row>
+
+	<row>
+		<id>50</id>
+		<state_name>West Virginia</state_name>
+		<state_code>WV</state_code>
+	</row>
+
+	<row>
+		<id>51</id>
+		<state_name>Wisconsin</state_name>
+		<state_code>WI</state_code>
+	</row>
+
+	<row>
+		<id>52</id>
+		<state_name>Wyoming</state_name>
+		<state_code>WY</state_code>
+	</row>
+
+	</us_states>
+
+</us-data>
